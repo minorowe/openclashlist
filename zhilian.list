@@ -1,6 +1,5 @@
-# 代理补充列表
-
-# 域名后缀匹配
+# Domain suffix matching
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,sufy.com
 DOMAIN-SUFFIX,hf-mirror.com
+DOMAIN-SUFFIX,hauntbuy.com
